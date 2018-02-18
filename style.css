@@ -1,0 +1,29 @@
+body{
+	background-color:tan;
+	color:black;
+;
+font:normal 16px Tahoma, verdana, sans-serif;
+
+line-height:1.6em;
+}
+
+.container{
+	width:500px;
+	height:auto;
+	padding:50px;
+	text-align:center;
+	margin:auto;
+}
+
+.box-1{
+	background-color:#2f4f4f;
+
+border:5px;
+
+}
+.image{
+border-radius: 200px;
+}
+.connect{
+	color:black;
+}
